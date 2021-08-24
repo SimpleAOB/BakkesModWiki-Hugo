@@ -1,3 +1,6 @@
+# Repo has moved!
+This repo is now being developed at https://github.com/BakkesModWiki/BakkesModWiki.github.io
+
 # BakkesModWiki-Hugo
 This is a temporary development repo for the new BakkesMod Programming Wiki!
 
